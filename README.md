@@ -1,2 +1,2 @@
-# nior-kbd
-Nior - Keyboard Layout
+# Nior - Keyboard Layout
+A custom ergonomic keyboard layout for programming. 
